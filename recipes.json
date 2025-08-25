@@ -3,11 +3,13 @@
     "id": "sallad",
     "title": "Vegetarisk sallad",
     "description": "En grön och fräsch sallad",
-    "greenChoice": true
+    "greenChoice": true,
+    "image": "https://raw.githubusercontent.com/kattisA/recipes/main/images/sallad_480.jpg"
   },
   {
     "id": "lasagne",
     "title": "Lasagne",
-    "description": "En superhärlig lasagne"
+    "description": "En superhärlig lasagne",
+    "image": "https://raw.githubusercontent.com/kattisA/recipes/main/images/lasagne_480.jpg"
   }
 ]
