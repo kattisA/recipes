@@ -4,7 +4,13 @@
     "title": "Vegetarisk sallad",
     "description": "En grön och fräsch sallad",
     "greenChoice": true,
-    "image": "https://raw.githubusercontent.com/kattisA/recipes/main/images/sallad_480.jpg"
+    "image": "https://raw.githubusercontent.com/kattisA/recipes/main/images/sallad_480.jpg",
+    "ingredients": [
+      { "amount": "2", "text": "tomater" },
+      { "amount": "1", "text": "gurka" },
+      { "amount": "1 msk", "text": "olivolja" },
+      { "text": "salt och peppar" }
+    ]
   },
   {
     "id": "lasagne",
