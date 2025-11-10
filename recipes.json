@@ -11,11 +11,13 @@
       { "amount": "1 msk", "text": "olivolja" },
       { "text": "salt och peppar" }
     ]
+    "category": "lunch"
   },
   {
     "id": "lasagne",
     "title": "Lasagne",
     "description": "En superhärlig lasagne",
-    "image": "https://raw.githubusercontent.com/kattisA/recipes/main/images/lasagne_480.jpg"
+    "image": "https://raw.githubusercontent.com/kattisA/recipes/main/images/lasagne_480.jpg",
+    "category": "middag"
   }
 ]
