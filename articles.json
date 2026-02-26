@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1",
+    "title": "My nice article",
+    "image": "",
+    "textIntro": "My text intro",
+    "mainText": "The main article text",
+    "author": "Kattis"
+  }  ,
+  {
+    "id": "2",
+    "title": "Another article",
+    "image": "",
+    "textIntro": "Another intro",
+    "mainText": "The main article text 2",
+    "author": "Kattis"
+  }
+]
