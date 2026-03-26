@@ -19,5 +19,20 @@
     "description": "En superhärlig lasagne",
     "image": "https://raw.githubusercontent.com/kattisA/recipes/main/images/lasagne_480.jpg",
     "category": "middag"
+  },
+  {
+    "id": "overnight_oats_apple",
+    "title": "Overnight oats med äpple",
+    "description": "Blanda ingredienserna och låt svälla i kylskåpet över natten.",
+    "image": "https://raw.githubusercontent.com/kattisA/recipes/main/images/overnight_oats_apple_480.png",
+    "ingredients": [
+      { "amount": "3 dl", "text": "vaniljsojadryck" },
+      { "amount": "2 dl", "text": "Gryn (havre, råg)" },
+      { "amount": "1", "text": "rivet äpple" },
+      { "amount": "2 msk", "text": "Linfrön" },
+      { "amount": "2 msk", "text": "Chiafrön" },
+      { "text": "kanel" }
+    ],
+    "category": "mellis"
   }
 ]
