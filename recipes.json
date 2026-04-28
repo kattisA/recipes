@@ -23,7 +23,7 @@
   {
     "id": "overnight_oats_apple",
     "title": "Overnight oats med äpple",
-    "description": "Blanda ingredienserna och låt svälla i kylskåpet över natten.",
+    "description": "En härlig kallgröt som du kan förbereda dagen innan och avnjuta på morgonen eller som ett bra mellanmål",
     "image": "https://raw.githubusercontent.com/kattisA/recipes/main/images/overnight_oats_apple_480.png",
     "ingredients": [
       { "amount": "3 dl", "text": "vaniljsojadryck" },
@@ -33,6 +33,10 @@
       { "amount": "2 msk", "text": "Chiafrön" },
       { "text": "kanel" }
     ],
-    "category": "mellis"
+    "category": "mellis",
+    "howList": [
+      "Häll upp sojadrycken i en bunke", "Riv ett äpple", "Blanda samman alla ingredienser med sojadrycken",
+      "Häll över blandningen i en burk med lock", "Låt blandingen dra i kylskåpet över natten", "Ta fram och njut med valfri topping!"
+    ]
   }
 ]
