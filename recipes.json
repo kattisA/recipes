@@ -34,9 +34,11 @@
       { "text": "kanel" }
     ],
     "category": "mellis",
+    "introduction": "Overnight oats är en kallgröt som går att variera i det oändliga. Den här varianten har den klassiska smaken av äpple och kanel och är en av mina favoriter!",
     "howList": [
       "Häll upp sojadrycken i en bunke", "Riv ett äpple", "Blanda samman alla ingredienser med sojadrycken",
       "Häll över blandningen i en burk med lock", "Låt blandingen dra i kylskåpet över natten", "Ta fram och njut med valfri topping!"
-    ]
+    ],
+    "outro": "Vanilj sojadryck ger extra god smak med vaniljsmaken. Även Alpros sojadryck blå sojadryck är väldigt god och sötma kan adderas med honung eller lite vaniljsocker." 
   }
 ]
